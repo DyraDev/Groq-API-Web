@@ -72,6 +72,7 @@ Proyek ini menggunakan file `.env` untuk konfigurasi. Pastikan Anda memiliki var
 
 ```plaintext
 GROQ_AI_API_KEY=kunci_api_anda_disini
+```
 
 ## Kontribusi
 
