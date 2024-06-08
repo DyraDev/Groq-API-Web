@@ -9,7 +9,6 @@
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Konfigurasi](#konfigurasi)
-- [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 - [Kontak](#kontak)
 
@@ -73,16 +72,6 @@ Proyek ini menggunakan file `.env` untuk konfigurasi. Pastikan Anda memiliki var
 ```plaintext
 GROQ_AI_API_KEY=kunci_api_anda_disini
 ```
-
-## Kontribusi
-
-Kami menyambut kontribusi! Silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori ini
-2. Buat cabang fitur Anda (`git checkout -b fitur/FiturBaru`)
-3. Commit perubahan Anda (`git commit -m 'Menambahkan beberapa Fitur Baru'`)
-4. Push ke cabang tersebut (`git push origin fitur/FiturBaru`)
-5. Buka pull request
 
 ## Lisensi
 
